@@ -1,3 +1,7 @@
 entering some text
 now some other text
-this is updated
+this is
+a new line 
+to fix
+
+updated
